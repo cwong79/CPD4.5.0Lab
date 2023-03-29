@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--=============================================================================
+    Licensed Materials - Property of IBM
+    
+    
+    OpenPages GRC Platform (PID: 5725-D51)
+    
+    © Copyright IBM Corporation 2022. All Rights Reserved.
+    
+    US Government Users Restricted Rights- Use, duplication or
+    disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+==============================================================================-->
+<openpagesConfiguration>
+    <actors>
+        <actor adminLevel="Default" canChangePassword="true" description="Bob Eldridge" editable="true" emailAddress="BusinessExec@ibm.com" enabled="true" firstName="Bob" group.adminLevel="Default" group.emailAddress="" group.hidden="false" group.type="Group" hidden="false" isTemporaryPassword="false" lastName="Eldridge" locale="U.S. English" name="BusinessExec" password="passw0rd" type="User"/>
+        <actor adminLevel="Default" canChangePassword="true" description="MRG Admin" editable="true" emailAddress="MRG_Admin@ibm.com" enabled="true" firstName="MRG" group.adminLevel="Default" group.emailAddress="" group.hidden="false" group.type="Group" hidden="false" isTemporaryPassword="false" lastName="Admin" locale="U.S. English" name="MRG_Admin" password="passw0rd" type="User"/>
+        <actor adminLevel="Default" canChangePassword="true" description="Missy Danforth" editable="true" emailAddress="ModelDeveloper@ibm.com" enabled="true" firstName="Missy" group.adminLevel="Default" group.emailAddress="" group.hidden="false" group.type="Group" hidden="false" isTemporaryPassword="false" lastName="Danforth" locale="U.S. English" name="ModelDeveloper" password="passw0rd" type="User"/>
+        <actor adminLevel="Default" canChangePassword="true" description="Matthew Estefan" editable="true" emailAddress="ModelExec@ibm.com" enabled="true" firstName="Matthew" group.adminLevel="Default" group.emailAddress="" group.hidden="false" group.type="Group" hidden="false" isTemporaryPassword="false" lastName="Estefan" locale="U.S. English" name="ModelExec" password="passw0rd" type="User"/>
+        <actor adminLevel="Default" canChangePassword="true" description="Mike Maloof" editable="true" emailAddress="ModelManager@ibm.com" enabled="true" firstName="Mike" group.adminLevel="Default" group.emailAddress="" group.hidden="false" group.type="Group" hidden="false" isTemporaryPassword="false" lastName="Maloof" locale="U.S. English" name="ModelManager" password="passw0rd" type="User"/>
+        <actor adminLevel="Default" canChangePassword="true" description="Marge Rivvons" editable="true" emailAddress="ModelRiskAnalyst@ibm.com" enabled="true" firstName="Marge" group.adminLevel="Default" group.emailAddress="" group.hidden="false" group.type="Group" hidden="false" isTemporaryPassword="false" lastName="Rivvons" locale="U.S. English" name="ModelRiskAnalyst" password="passw0rd" type="User"/>
+        <actor adminLevel="Default" canChangePassword="true" description="Mae Vashon" editable="true" emailAddress="ModelValidator@ibm.com" enabled="true" firstName="Mae" group.adminLevel="Default" group.emailAddress="" group.hidden="false" group.type="Group" hidden="false" isTemporaryPassword="false" lastName="Vashon" locale="U.S. English" name="ModelValidator" password="passw0rd" type="User"/>
+        <actor adminLevel="Default" canChangePassword="true" description="Mark Owens" editable="true" emailAddress="ModelOwner@ibm.com" enabled="true" firstName="Mark" group.adminLevel="Default" group.emailAddress="" group.hidden="false" group.type="Group" hidden="false" isTemporaryPassword="false" lastName="Owens" locale="U.S. English" name="ModelOwner" password="passw0rd" type="User"/>
+    </actors>
+    <actorGroupMemberships>
+        <actorGroupMembership explicitGroupListing="false" isEntityGroup="false" name="ModelRiskAnalyst">
+            <group isEntityGroup="false" name="OpenPages"/>
+            <group isEntityGroup="false" name="Sample Users"/>
+        </actorGroupMembership>
+        <actorGroupMembership explicitGroupListing="false" isEntityGroup="false" name="ModelManager">
+            <group isEntityGroup="false" name="OpenPages"/>
+            <group isEntityGroup="false" name="Sample Users"/>
+        </actorGroupMembership>
+        <actorGroupMembership explicitGroupListing="false" isEntityGroup="false" name="ModelDeveloper">
+            <group isEntityGroup="false" name="OpenPages"/>
+            <group isEntityGroup="false" name="Sample Users"/>
+        </actorGroupMembership>
+        <actorGroupMembership explicitGroupListing="false" isEntityGroup="false" name="ModelExec">
+            <group isEntityGroup="false" name="OpenPages"/>
+            <group isEntityGroup="false" name="Sample Users"/>
+        </actorGroupMembership>
+        <actorGroupMembership explicitGroupListing="false" isEntityGroup="false" name="ModelValidator">
+            <group isEntityGroup="false" name="OpenPages"/>
+            <group isEntityGroup="false" name="Sample Users"/>
+        </actorGroupMembership>
+        <actorGroupMembership explicitGroupListing="false" isEntityGroup="false" name="MRG_Admin">
+            <group isEntityGroup="false" name="OpenPages"/>
+            <group isEntityGroup="false" name="Sample Users"/>
+        </actorGroupMembership>
+        <actorGroupMembership explicitGroupListing="false" isEntityGroup="false" name="BusinessExec">
+            <group isEntityGroup="false" name="OpenPages"/>
+            <group isEntityGroup="false" name="Sample Users"/>
+        </actorGroupMembership>
+        <actorGroupMembership explicitGroupListing="false" isEntityGroup="false" name="ModelOwner">
+            <group isEntityGroup="false" name="OpenPages"/>
+            <group isEntityGroup="false" name="Sample Users"/>
+        </actorGroupMembership>
+    </actorGroupMemberships>
+    <roleAssignments/>
+    <administrators/>
+    <actorObjectProfileAssociationSets>
+        <actorObjectProfileAssociationSet name="BusinessExec">
+            <actorObjectProfileAssociation name="OpenPages MRG Master"/>
+        </actorObjectProfileAssociationSet>
+        <actorObjectProfileAssociationSet name="MRG_Admin">
+            <actorObjectProfileAssociation name="OpenPages MRG Master"/>
+        </actorObjectProfileAssociationSet>
+        <actorObjectProfileAssociationSet name="ModelDeveloper">
+            <actorObjectProfileAssociation name="MRG Model Owner"/>
+        </actorObjectProfileAssociationSet>
+        <actorObjectProfileAssociationSet name="ModelOwner">
+            <actorObjectProfileAssociation name="MRG Model Owner"/>
+        </actorObjectProfileAssociationSet>
+        <actorObjectProfileAssociationSet name="ModelExec">
+            <actorObjectProfileAssociation name="MRG Model Owner"/>
+        </actorObjectProfileAssociationSet>
+        <actorObjectProfileAssociationSet name="ModelManager">
+            <actorObjectProfileAssociation name="MRG Model Owner"/>
+        </actorObjectProfileAssociationSet>
+        <actorObjectProfileAssociationSet name="ModelRiskAnalyst">
+            <actorObjectProfileAssociation name="MRG Model Validation"/>
+        </actorObjectProfileAssociationSet>
+        <actorObjectProfileAssociationSet name="ModelValidator">
+            <actorObjectProfileAssociation name="MRG Model Validation"/>
+        </actorObjectProfileAssociationSet>
+    </actorObjectProfileAssociationSets>
+</openpagesConfiguration>
