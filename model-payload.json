@@ -3,7 +3,7 @@
                 {
                         "fields": [
                                 "TITLE",
-                                "VIRTUAL_MASTER_HR_DATA_DEPARTMENT",
+                                "DEPARTMENT",
                                 "FUNCTION",
                                 "DIVISION",
                                 "UNION_STATUS",
