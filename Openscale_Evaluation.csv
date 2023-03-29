@@ -1,0 +1,52 @@
+STATUS,TITLE,DEPARTMENT,FUNCTION,DIVISION,UNION_STATUS,EMPLOYMENT_CATEGORY,AGE,GENERATION,GENDER,ETHNIC_ORIGIN,LAST_PERFORMANCE_RATING,LAST_POTENTIAL_RATING,EMPLOYEE_PAY_FREQUENCY,EXEMPTTF,EMPLOYEE_PAY_BASIS,MANAGER_ID
+Active,Labor,Factory-East,Manufacturing,Product,Union,Regular Employee FT,62,Boomer,Male,W,No Rating,No Rating,Bi-Weekly,F,Hourly,S1177
+Active,Laborer,Operations-West,Operations,Product,Union,Regular Employee FT,62,Boomer,Male,B,No Rating,No Rating,Weekly,F,Hourly,S3474
+Active,Sales Manager,Sales-East,Sales,Sales,Non-Union,Regular Employee FT,62,Boomer,Male,W,Successfully Meets Expectations,Not assigned,Monthly,F,Salary,S4739
+Active,Technician,Factory-East,Manufacturing,Product,Non-Union,Regular Employee FT,62,Boomer,Male,W,Successfully Meets Expectations,Not assigned,Weekly,F,Hourly,S3888
+Terminated,Manager,Finance,Finance & IT,Corporate,Non-Union,Regular Employee FT,61,Boomer,Female,W,Successfully Meets Expectations,Strong Contributor,Semi-Mont,T,Salary,S4324
+Active,Driver,Operations-East,Operations,Product,Non-Union,Regular Employee FT,62,Boomer,Male,B,Too New,Not assigned,Bi-Weekly,F,Hourly,S2984
+Active,Driver,Operations-West,Operations,Product,Union,Regular Employee FT,62,Boomer,Male,H,No Rating,No Rating,Weekly,F,Hourly,S3328
+Active,Laborer,Customer Service,Customer Care,Customer Care,Non-Union,Regular Employee FT,62,Boomer,Female,W,Meets & Exceeds,Not assigned,Bi-Weekly,F,Hourly,S2037
+Active,Laborer,Customer Service,Customer Care,Customer Care,Union,Regular Employee FT,62,Boomer,Female,B,No Rating,No Rating,Weekly,F,Hourly,S3456
+Active,Mechanic,Factory-Central,Manufacturing,Product,Union,Regular Employee FT,62,Boomer,Female,W,No Rating,No Rating,Weekly,F,Hourly,S3916
+Active,Merchandiser,Sales-East,Sales,Sales,Non-Union,Regular Employee FT,62,Boomer,Male,B,Successfully Meets Expectations,Not assigned,Bi-Weekly,F,Daily,S355
+Terminated,Merchandiser,Sales-East,Sales,Sales,Non-Union,Regular Employee PT,61,Boomer,Male,H,Successfully Meets Expectations,Not assigned,Bi-Weekly,F,Hourly,S2441
+Active,Technician,Factory-Central,Manufacturing,Product,Non-Union,Regular Employee FT,62,Boomer,Female,B,Successfully Meets Expectations,Not assigned,Bi-Weekly,F,Hourly,S1293
+Active,Driver,Operations-West,Operations,Product,Union,Regular Employee FT,62,Boomer,Male,W,No Rating,No Rating,Weekly,F,Hourly,S3396
+Active,Operator,Factory-East,Manufacturing,Product,Non-Union,Regular Employee FT,62,Boomer,Male,W,Successfully Meets Expectations,Not assigned,Bi-Weekly,F,Hourly,S1614
+Active,Clerk,Factory-Central,Manufacturing,Product,Non-Union,Regular Employee FT,62,Boomer,Male,W,No Rating,No Rating,Bi-Weekly,F,Hourly,S2952
+Active,Technician,Customer Service,Customer Care,Customer Care,Union,Regular Employee FT,62,Boomer,Male,W,No Rating,No Rating,Bi-Weekly,F,Hourly,S1192
+Active,Laborer,Operations-West,Operations,Product,Non-Union,Regular Employee FT,62,Boomer,Male,B,Developing/Meets Some,Not assigned,Bi-Weekly,F,Hourly,S1154
+Terminated,Operator,Factory-Central,Manufacturing,Product,Non-Union,Regular Employee FT,61,Boomer,Male,W,Developing/Meets Some,Not assigned,Bi-Weekly,F,Hourly,S1574
+Active,Specialist,Customer Service,Customer Care,Customer Care,Non-Union,Regular Employee FT,62,Boomer,Male,W,Developing/Meets Some,Not assigned,Bi-Weekly,F,Hourly,S2920
+Active,Forklift Driver,Operations-East,Operations,Product,Union,Regular Employee FT,62,Boomer,Male,W,No Rating,No Rating,Bi-Weekly,F,Hourly,S1047
+Active,Clerk,Factory-Central,Manufacturing,Product,Union,Regular Employee FT,62,Boomer,Male,W,No Rating,No Rating,Weekly,F,Hourly,S3887
+Terminated,Forklift Driver,Operations-East,Operations,Product,Union,Regular Employee FT,62,Boomer,Female,B,No Rating,No Rating,Bi-Weekly,F,Hourly,S1078
+Active,Installer,Customer Service,Customer Care,Customer Care,Non-Union,Regular Employee FT,62,Boomer,Female,B,Successfully Meets Expectations,Not assigned,Bi-Weekly,F,Hourly,S2017
+Terminated,Mechanic,Factory-Central,Manufacturing,Product,Union,Regular Employee FT,62,Boomer,Female,B,No Rating,No Rating,Weekly,F,Hourly,S2988
+Active,Technician,Customer Service,Customer Care,Customer Care,Union,Regular Employee FT,62,Boomer,Female,W,No Rating,No Rating,Weekly,F,Hourly,S3464
+Active,Labor,Factory-Central,Manufacturing,Product,Non-Union,Regular Employee FT,62,Boomer,Female,B,Successfully Meets Expectations,Not assigned,Weekly,F,Hourly,S3719
+Terminated,Laborer,Factory-Central,Manufacturing,Product,Union,Regular Employee FT,62,Boomer,Female,H,No Rating,No Rating,Weekly,F,Hourly,S3876
+Terminated,Technician,Factory-Central,Manufacturing,Product,Non-Union,Regular Employee FT,62,Boomer,Female,W,Successfully Meets Expectations,Not assigned,Weekly,F,Hourly,S3588
+Active,Account Executive,Sales-East,Sales,Sales,Non-Union,Regular Employee FT,62,Boomer,Female,W,Meets & Exceeds,Not assigned,Monthly,T,Salary,S4869
+Active,Sales Manager,Sales-Central,Sales,Sales,Non-Union,Regular Employee FT,62,Boomer,Female,W,Successfully Meets Expectations,Not assigned,Monthly,T,Salary,S4872
+Terminated,Laborer,Operations-West,Operations,Product,Non-Union,Regular Employee FT,62,Boomer,Female,H,Meets & Exceeds,Not assigned,Bi-Weekly,F,Hourly,S1193
+Active,Driver,Operations-East,Operations,Product,Union,Regular Employee FT,62,Boomer,Female,B,No Rating,No Rating,Bi-Weekly,F,Daily,S47
+Active,Technician,Customer Service,Customer Care,Customer Care,Non-Union,Regular Employee FT,62,Boomer,Female,W,Successfully Meets Expectations,Not assigned,Bi-Weekly,F,Hourly,S1410
+Active,Laborer,Operations-West,Operations,Product,Non-Union,Regular Employee FT,62,Boomer,Female,H,Successfully Meets Expectations,Not assigned,Bi-Weekly,F,Hourly,S159
+Active,Labor,Factory-East,Manufacturing,Product,Non-Union,Regular Employee FT,62,Boomer,Female,B,Successfully Meets Expectations,Not assigned,Bi-Weekly,F,Hourly,S1798
+Active,Laborer,Operations-West,Operations,Product,Union,Regular Employee FT,62,Boomer,Female,W,No Rating,No Rating,Weekly,F,Hourly,S3314
+Active,Operator,Factory-East,Manufacturing,Product,Non-Union,Regular Employee FT,63,Boomer,Female,A,Successfully Meets Expectations,Not assigned,Bi-Weekly,F,Hourly,S1105
+Active,Mechanic,Support,Support,Product,Union,Regular Employee FT,63,Boomer,Female,W,No Rating,No Rating,Bi-Weekly,F,Hourly,S1228
+Active,Mechanic,Support,Support,Product,Union,Regular Employee FT,63,Boomer,Female,W,No Rating,No Rating,Weekly,F,Hourly,S3315
+Active,Laborer,Factory-Central,Manufacturing,Product,Non-Union,Regular Employee FT,63,Boomer,Male,A,Developing/Meets Some,Not assigned,Weekly,F,Hourly,S4021
+Active,Laborer,Operations-East,Operations,Product,Non-Union,Regular Employee FT,63,Boomer,Male,H,Successfully Meets Expectations,Not assigned,Bi-Weekly,F,Hourly,S1115
+Active,Laborer,Factory-East,Manufacturing,Product,Union,Regular Employee FT,63,Boomer,Male,W,No Rating,No Rating,Bi-Weekly,F,Hourly,S1011
+Active,Laborer,Operations-West,Operations,Product,Union,Regular Employee FT,63,Boomer,Male,W,No Rating,No Rating,Bi-Weekly,F,Hourly,S1299
+Active,Systems Analyst,Finance,Finance & IT,Corporate,Non-Union,Regular Employee FT,63,Boomer,Female,W,Successfully Meets Expectations,Not assigned,Monthly,T,Salary,S4851
+Active,Supervisor,Factory-East,Manufacturing,Product,Non-Union,Regular Employee FT,63,Boomer,Male,W,Successfully Meets Expectations,Not assigned,Bi-Weekly,T,Salary,S3319
+Active,Driver,Support,Support,Product,Union,Regular Employee FT,63,Boomer,Male,W,No Rating,No Rating,Weekly,F,Hourly,S3380
+Active,Clerk,Customer Service,Customer Care,Customer Care,Non-Union,Regular Employee FT,63,Boomer,Male,W,Successfully Meets Expectations,Not assigned,Bi-Weekly,F,Hourly,S1603
+Active,Account Manager,Sales-Central,Sales,Sales,Non-Union,Regular Employee FT,63,Boomer,Male,W,Developing/Meets Some,Not assigned,Monthly,T,Salary,S4911
+Active,Specialist,Customer Service,Customer Care,Customer Care,Non-Union,Regular Employee FT,63,Boomer,Female,X,Successfully Meets Expectations,Not assigned,Bi-Weekly,F,Hourly,S3003
+Terminated,Mover,Customer Service,Customer Care,Customer Care,Union,Regular Employee FT,62,Boomer,Male,B,No Rating,No Rating,Weekly,F,Hourly,S3456
